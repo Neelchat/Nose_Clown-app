@@ -1,0 +1,10 @@
+canvas{animation-name: example;
+     animation-duration: 5s;
+      animation-iteration-count: infinite;
+    }
+    @keyframes example 
+    { 
+         from {box-shadow: 3px 2px 38px royalblue;}
+          to {box-shadow: 3px 2px 38px goldenrod;}
+         };
+
